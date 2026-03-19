@@ -9,7 +9,7 @@
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <div class="mx-auto">
-                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel JA Centro">
                 </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     Confort y Descanso a tu alcance
@@ -34,7 +34,7 @@
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <div class="mx-auto">
-                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel JA Centro">
                 </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     Perfecto para estancias largas
@@ -59,7 +59,7 @@
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <div class="mx-auto">
-                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel JA Centro">
                 </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     En el corazón de la perla tapatía
@@ -84,7 +84,7 @@
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <div class="mx-auto">
-                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                    <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel JA Centro">
                 </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     La comodidad al alcance de una reserva.

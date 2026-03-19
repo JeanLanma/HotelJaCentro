@@ -5,7 +5,7 @@
                 <img class="w-10" src="{{ asset('assets/icons/menu.svg') }}" alt="menu">
             </div>
             <a  href="{{ route('home') }}">
-                <img class="h-14" src="{{asset('assets/logo.png')}}" alt="Logo Hotel Casino Plaza Navbar">
+                <img class="h-14" src="{{asset('assets/logo.png')}}" alt="Logo Hotel JA Centro Navbar">
             </a>
         </div>
         <div class="md:hidden block" data-open-nav id="openNavBtnMovile">
